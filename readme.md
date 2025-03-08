@@ -4,7 +4,7 @@ Explore the MEET app, a serverless, progressive web application that seamlessly 
 
 ## App Link
 
-[https://psychoboyjack83.github.io/meet/](https://psychoboyjack83.github.io/meet/).
+[https://georgitsis.github.io/meet/](https://georgitsis.github.io/meet/).
 
 ## Objective
 
